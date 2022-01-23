@@ -4,16 +4,16 @@ module.exports = {
     extend: {
       colors: {
         primary: {
-          // diffrent shades of torquoise
-          100: "#E6FFFA",
-          200: "#B2F5EA",
-          300: "#81E6D9",
-          400: "#4FD1C5",
-          500: "#38B2AC",
-          600: "#319795",
-          700: "#2C7A7B",
-          800: "#285E61",
-          900: "#2b4a4a",
+          // Different shades of dark torquoise
+          100: "#E6F4F9",
+          200: "#BFE1E9",
+          300: "#8ED6E3",
+          400: "#5CBBD5",
+          500: "#2CA9C9",
+          600: "#1A8FB7",
+          700: "#18699B",
+          800: "#0F4F7D",
+          900: "#0A3C5F"
         },
       }
     },
